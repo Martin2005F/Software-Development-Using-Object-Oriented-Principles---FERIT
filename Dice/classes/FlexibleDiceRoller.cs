@@ -36,13 +36,7 @@ namespace Dice.classes
 
         public void RemoveEqualNumberOfSides(int numberOfSides)
         {
-            for(int i=dice.Count(); i>0; i--)
-            {
-                if (dice[i].GetNumberOfSides == numberOfSides)
-                {
-                    dice.RemoveAt(i);
-                }
-            }
+            dice.RemoveAll(t => t.GetNumberOfSides == numberOfSides);
         }
 
     }
