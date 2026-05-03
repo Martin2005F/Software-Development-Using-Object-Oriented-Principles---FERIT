@@ -1,0 +1,15 @@
+D:\rppoon\StructualPatterns\StructualPatterns\bin\Debug\net10.0\StructualPatterns.exe
+D:\rppoon\StructualPatterns\StructualPatterns\bin\Debug\net10.0\StructualPatterns.deps.json
+D:\rppoon\StructualPatterns\StructualPatterns\bin\Debug\net10.0\StructualPatterns.runtimeconfig.json
+D:\rppoon\StructualPatterns\StructualPatterns\bin\Debug\net10.0\StructualPatterns.dll
+D:\rppoon\StructualPatterns\StructualPatterns\bin\Debug\net10.0\StructualPatterns.pdb
+D:\rppoon\StructualPatterns\StructualPatterns\obj\Debug\net10.0\StructualPatterns.GeneratedMSBuildEditorConfig.editorconfig
+D:\rppoon\StructualPatterns\StructualPatterns\obj\Debug\net10.0\StructualPatterns.AssemblyInfoInputs.cache
+D:\rppoon\StructualPatterns\StructualPatterns\obj\Debug\net10.0\StructualPatterns.AssemblyInfo.cs
+D:\rppoon\StructualPatterns\StructualPatterns\obj\Debug\net10.0\StructualPatterns.csproj.CoreCompileInputs.cache
+D:\rppoon\StructualPatterns\StructualPatterns\obj\Debug\net10.0\StructualPatterns.sourcelink.json
+D:\rppoon\StructualPatterns\StructualPatterns\obj\Debug\net10.0\StructualPatterns.dll
+D:\rppoon\StructualPatterns\StructualPatterns\obj\Debug\net10.0\refint\StructualPatterns.dll
+D:\rppoon\StructualPatterns\StructualPatterns\obj\Debug\net10.0\StructualPatterns.pdb
+D:\rppoon\StructualPatterns\StructualPatterns\obj\Debug\net10.0\StructualPatterns.genruntimeconfig.cache
+D:\rppoon\StructualPatterns\StructualPatterns\obj\Debug\net10.0\ref\StructualPatterns.dll
