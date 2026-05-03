@@ -1,7 +1,0 @@
-D:\rppoon\Notification\Notification\Notification\bin\Debug\Notification.exe.config
-D:\rppoon\Notification\Notification\Notification\bin\Debug\Notification.exe
-D:\rppoon\Notification\Notification\Notification\bin\Debug\Notification.pdb
-D:\rppoon\Notification\Notification\Notification\obj\Debug\Notification.csproj.AssemblyReference.cache
-D:\rppoon\Notification\Notification\Notification\obj\Debug\Notification.csproj.CoreCompileInputs.cache
-D:\rppoon\Notification\Notification\Notification\obj\Debug\Notification.exe
-D:\rppoon\Notification\Notification\Notification\obj\Debug\Notification.pdb
