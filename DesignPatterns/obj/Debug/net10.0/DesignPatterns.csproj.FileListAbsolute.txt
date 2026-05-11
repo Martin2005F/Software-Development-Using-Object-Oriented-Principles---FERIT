@@ -1,0 +1,15 @@
+D:\rppoon\DesignPatterns\DesignPatterns\bin\Debug\net10.0\DesignPatterns.exe
+D:\rppoon\DesignPatterns\DesignPatterns\bin\Debug\net10.0\DesignPatterns.deps.json
+D:\rppoon\DesignPatterns\DesignPatterns\bin\Debug\net10.0\DesignPatterns.runtimeconfig.json
+D:\rppoon\DesignPatterns\DesignPatterns\bin\Debug\net10.0\DesignPatterns.dll
+D:\rppoon\DesignPatterns\DesignPatterns\bin\Debug\net10.0\DesignPatterns.pdb
+D:\rppoon\DesignPatterns\DesignPatterns\obj\Debug\net10.0\DesignPatterns.GeneratedMSBuildEditorConfig.editorconfig
+D:\rppoon\DesignPatterns\DesignPatterns\obj\Debug\net10.0\DesignPatterns.AssemblyInfoInputs.cache
+D:\rppoon\DesignPatterns\DesignPatterns\obj\Debug\net10.0\DesignPatterns.AssemblyInfo.cs
+D:\rppoon\DesignPatterns\DesignPatterns\obj\Debug\net10.0\DesignPatterns.csproj.CoreCompileInputs.cache
+D:\rppoon\DesignPatterns\DesignPatterns\obj\Debug\net10.0\DesignPatterns.sourcelink.json
+D:\rppoon\DesignPatterns\DesignPatterns\obj\Debug\net10.0\DesignPatterns.dll
+D:\rppoon\DesignPatterns\DesignPatterns\obj\Debug\net10.0\refint\DesignPatterns.dll
+D:\rppoon\DesignPatterns\DesignPatterns\obj\Debug\net10.0\DesignPatterns.pdb
+D:\rppoon\DesignPatterns\DesignPatterns\obj\Debug\net10.0\DesignPatterns.genruntimeconfig.cache
+D:\rppoon\DesignPatterns\DesignPatterns\obj\Debug\net10.0\ref\DesignPatterns.dll
