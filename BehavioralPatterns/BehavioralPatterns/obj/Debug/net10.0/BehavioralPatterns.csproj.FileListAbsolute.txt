@@ -1,0 +1,15 @@
+D:\rppoon\BehavioralPatterns\BehavioralPatterns\bin\Debug\net10.0\BehavioralPatterns.exe
+D:\rppoon\BehavioralPatterns\BehavioralPatterns\bin\Debug\net10.0\BehavioralPatterns.deps.json
+D:\rppoon\BehavioralPatterns\BehavioralPatterns\bin\Debug\net10.0\BehavioralPatterns.runtimeconfig.json
+D:\rppoon\BehavioralPatterns\BehavioralPatterns\bin\Debug\net10.0\BehavioralPatterns.dll
+D:\rppoon\BehavioralPatterns\BehavioralPatterns\bin\Debug\net10.0\BehavioralPatterns.pdb
+D:\rppoon\BehavioralPatterns\BehavioralPatterns\obj\Debug\net10.0\BehavioralPatterns.GeneratedMSBuildEditorConfig.editorconfig
+D:\rppoon\BehavioralPatterns\BehavioralPatterns\obj\Debug\net10.0\BehavioralPatterns.AssemblyInfoInputs.cache
+D:\rppoon\BehavioralPatterns\BehavioralPatterns\obj\Debug\net10.0\BehavioralPatterns.AssemblyInfo.cs
+D:\rppoon\BehavioralPatterns\BehavioralPatterns\obj\Debug\net10.0\BehavioralPatterns.csproj.CoreCompileInputs.cache
+D:\rppoon\BehavioralPatterns\BehavioralPatterns\obj\Debug\net10.0\BehavioralPatterns.sourcelink.json
+D:\rppoon\BehavioralPatterns\BehavioralPatterns\obj\Debug\net10.0\BehavioralPatterns.dll
+D:\rppoon\BehavioralPatterns\BehavioralPatterns\obj\Debug\net10.0\refint\BehavioralPatterns.dll
+D:\rppoon\BehavioralPatterns\BehavioralPatterns\obj\Debug\net10.0\BehavioralPatterns.pdb
+D:\rppoon\BehavioralPatterns\BehavioralPatterns\obj\Debug\net10.0\BehavioralPatterns.genruntimeconfig.cache
+D:\rppoon\BehavioralPatterns\BehavioralPatterns\obj\Debug\net10.0\ref\BehavioralPatterns.dll
