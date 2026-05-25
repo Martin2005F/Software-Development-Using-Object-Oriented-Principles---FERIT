@@ -43,10 +43,9 @@ public static class Program
 
         Console.WriteLine("\n TASK 5, 6 & 7");
 
-        DVD movie = new DVD("Inception",DVDType.MOVIE, 19.99);
+        DVD movie = new DVD("Inception", DVDType.MOVIE, 19.99);
         DVD software = new DVD("Visual Studio", DVDType.SOFTWARE, 499.99);
         VHS vhs = new VHS("The Matrix", 9.99);
-
         Book book = new Book("The Great Gatsby", 10.99);
 
         Cart cart = new Cart();
@@ -57,12 +56,14 @@ public static class Program
 
         IVisitor buyVisitor = new BuyVisitor();
         IVisitor rentVisitor = new RentVisitor();
+        IVisitor cartRentVisitor = new CartRentVisitor();
 
         Console.WriteLine($"Price for buying a movie with taxes: {movie.Accept(buyVisitor)}");
         Console.WriteLine($"Price for renting a movie: {movie.Accept(rentVisitor):C}");
-        Console.WriteLine($"Price for renting a softwere: {software.Accept(rentVisitor):C}");
+        Console.WriteLine($"Price for renting a software (Task 6 - NaN): {software.Accept(rentVisitor)}");
+        Console.WriteLine($"Price for renting a book: {book.Accept(rentVisitor):C}");
 
         Console.WriteLine($"Total price for buying all items in the cart: {cart.Accept(buyVisitor):C}");
-        Console.WriteLine($"Total price for renting all items in the cart: {cart.Accept(rentVisitor):C}");
+        Console.WriteLine($"Total price for renting all items in the cart (Task 7): {cart.Accept(cartRentVisitor):C}");
     }
 }
